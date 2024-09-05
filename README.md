@@ -1,5 +1,4 @@
-# I129paradox
-This is the data repository for the paper titled "The Iodine-129 Paradox in the Nuclear Fuel Cycle— Is Dilution a Solution?" by Wainwright et al.
+This is the data repository for the paper titled "The Iodine-129 Paradox in the Nuclear Fuel Cycle— Is Dilution a Solution?" by Wainwright et al. The data and codes were created by Kay Whiteaker and Haruko Wainwright.
 
 -------------------
 Mass flow analysis
@@ -20,6 +19,7 @@ Release from reprocessing plants and Surface water concentration
 -----------------------------------------------------------------
 In Release_Concentrations/
 - database.xlsx: surface water concentration data in Europe from literature (see database_readme.dox)
+  * the database is originally published under the DOI: 10.5281/zenodo.13685679, and modified to add the SRS data 
 - plot_SRS_surfacewater.ipynb: plot the surface water concentrations at SRS (FM-6.csv and FMC-002F.csv; Figure S1)
 - release_plots.xlsx: annual release from La Hague and Sellafield
 - effluents_concentrations.xlsx: summary statistics of concentration data
