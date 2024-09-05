@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/01ec4b0b-e635-485c-b9e5-661233d9a487)# I129paradox
+# I129paradox
 This is the data repository for the paper titled "The Iodine-129 Paradox in the Nuclear Fuel Cycle— Is Dilution a Solution?" by Wainwright et al.
 
 -------------------
