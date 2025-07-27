@@ -1,0 +1,4 @@
+
+x = categorical({'La Hague'; 'Sellafield'; 'SRS'; 'Hanford'},{'La Hague'; 'Sellafield'; 'SRS'; 'Hanford'});
+y = [213, 36.6, 11.3/33, 26.6/45]'; % Release per year (kg/yr)
+z = [1.29E-01,	4.59,	82.1, 4.47E-04]'; % Max surface water concentration (ng/L)
